@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "NEO UNIVERSE",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2025-12-02T21:26:43.369582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/01_NEO_UNIVERSE_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE [MusicBaran]",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/02_NEO_UNIVERSE_[MusicBaran]_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/03_NEO_UNIVERSE_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/04_NEO_UNIVERSE_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/05_NEO_UNIVERSE_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/06_NEO_UNIVERSE_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "neo universe",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/07_neo_universe_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/08_NEO_UNIVERSE_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neo Universe PART I",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/09_Neo_Universe_PART_I_THE_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neo Universe PART I",
+      "artist": "Alfee, The",
+      "has_synced": true,
+      "path": "select/10_Neo_Universe_PART_I_Alfee,_The.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LAST OF EDEN 〜 Neo Universe PART II",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/11_LAST_OF_EDEN_〜_Neo_Universe_PART_II_THE_ALFEE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LAST OF EDEN 〜 Neo Universe PART II",
+      "artist": "Alfee, The",
+      "has_synced": false,
+      "path": "select/12_LAST_OF_EDEN_〜_Neo_Universe_PART_II_Alfee,_The.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "新世界を越えて 〜 Neo Universe PART III",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/13_新世界を越えて_〜_Neo_Universe_PART_III_THE_ALFEE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "新世界を越えて 〜 Neo Universe PART III",
+      "artist": "Alfee, The",
+      "has_synced": false,
+      "path": "select/14_新世界を越えて_〜_Neo_Universe_PART_III_Alfee,_The.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/15_NEO_UNIVERSE_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "Prizmmy☆",
+      "has_synced": false,
+      "path": "select/16_NEO_UNIVERSE_Prizmmy☆.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "NEO UNIVERSE",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/17_NEO_UNIVERSE_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neo Universe",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_Neo_Universe_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
